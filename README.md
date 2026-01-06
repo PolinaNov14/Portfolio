@@ -17,4 +17,6 @@ Python • SQL • Power BI • PostgreSQL • Git • AI
 ### 🔗 [Дипломы](./Дипломы)
 Образовательные документы и подтвержденные компетенции
 ## Контакты
-TG: @iampollina • Email: polina.chat.14@yandex.ru
+- **Telegram:** [@iampollina](https://t.me/iampollina)
+- **Email:** [polina.chat.14@yandex.ru](mailto:polina.chat.14@yandex.ru)
+- **GitHub:** [PolinaNov14](https://github.com/PolinaNov14)
